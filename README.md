@@ -13,4 +13,7 @@ numpy
 
 Clone and run **main.py**
 
+## Credits
+Uses *Visualization Utilities* from MediaPipe Authors
+
 [Apache-2.0 license](https://www.apache.org/licenses/LICENSE-2.0)
