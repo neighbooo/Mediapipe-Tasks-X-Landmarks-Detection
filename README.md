@@ -13,7 +13,7 @@ numpy
 
 Clone and run **main.py**
 
-Make sure you download the model from [here(]https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/latest/hand_landmarker.task)
+Make sure you download the model from [here](https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/latest/hand_landmarker.task)
 
 ## Credits
 Uses *Visualization Utilities* from MediaPipe Authors
